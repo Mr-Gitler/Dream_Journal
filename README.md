@@ -36,7 +36,7 @@ including a recycle bin for deleted dreams and support for categories, moods, ta
    ```bash
    python app.py
    ```
-4. Open your browser and go to [http://localhost:5000] (http://localhost:5000)
+4. Open your browser and go to (http://localhost:5000)
 
 ## Project Structure
 ```
